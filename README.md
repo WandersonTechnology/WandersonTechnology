@@ -1,4 +1,4 @@
-## Ola, Mundo! Seja bem-vindo(a)
+## Ola, Seja bem-vindo(a)!
 
 #### Prazer, Sou o Wanderson! Um apaixonado por tecnologia  👨‍💻
 
