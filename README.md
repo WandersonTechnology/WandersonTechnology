@@ -3,11 +3,14 @@
 #### Prazer, Sou o Wanderson! Um apaixonado por tecnologia  👨‍💻
 
 🎓Especializado em Gestão e Governança em Tecnologia da Informação
+
 💻Experiência: Power BI
+
 📚Estou aprendendo: Business Inteligente, Data Science
+
 🎯 Tenho interesse: Java, C#, Python
 
-O aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
+Insanidade é continuar fazendo sempre a mesma coisa e esperar resultados diferentes 🚀
 
 **Contato**
 
